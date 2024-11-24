@@ -12,7 +12,7 @@ This project provides a simple API for user authentication using **Node.js**, **
 ### Steps backend
 1. Clone the repository:
    ```bash
-   git clone [<repository_url>]
+   git clone [<repository_url>](https://github.com/maiharshrivastava/RBAC-MERN)
    cd api
    ```
 2. Install dependencies:
